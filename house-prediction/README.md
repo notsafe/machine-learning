@@ -13,13 +13,13 @@ para fazer a previsão dos valores das casas vendidas no período de maio de 201
 
 
 # Bibliotecas
-pandas
-numpy
-matplotlib
-seaborn
+* pandas
+* numpy
+* matplotlib
+* seaborn
 
 # Algoritmos de classificação utilizados
 
-Multilayer Perceptron
-Modelo de regressão linear
-Árvore de decisão
+* Multilayer Perceptron
+* Modelo de regressão linear
+* Árvore de decisão
