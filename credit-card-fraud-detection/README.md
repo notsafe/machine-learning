@@ -2,7 +2,7 @@
 
 ## Credit Card Fraud Detection
 
-Human Activity Recognition Using Smartphones Dataset
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 Baixe e coloque os arquivos do dataset dentro da pasta `Datasets`
 
 Este dataset contem informações (a maioria anonimazada) disponibilizadas por companias europeias sobre transaçõoes feitas
